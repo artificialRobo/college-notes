@@ -11,9 +11,13 @@ A continuous image f(x,y) is converted into a digital image by taking samples at
 ## Why is Sampling Needed?
 
 A real-world image contains infinite points.
+
 A digital image stores only a finite number of points (pixels).
+
 Sampling divides the images plane into a **grid of pixels**.
+
 Continuous image -> Sampling -> Pixel grid (digital image)
+
 Each grid point stores the intensity value of the image.
 
 ## Mathematical representation
