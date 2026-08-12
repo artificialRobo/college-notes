@@ -1,4 +1,4 @@
-## Unit 1: Lexical Analysis and Morphology (9 Hours)
+## Unit 1: Lexical Analysis (9 Hours)
 
 ### 1.1 Lexical Analysis
 

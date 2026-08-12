@@ -1,4 +1,4 @@
-## Unit 4: Lexical Knowledge Networks and Semantic Analysis (9 Hours)
+## Unit 4: Lexical Knowledge Networks (9 Hours)
 
 ### 4.1 Lexical Knowledge Networks
 

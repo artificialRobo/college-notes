@@ -1,4 +1,4 @@
-## Unit 5: Applications of Natural Language Processing (9 Hours)
+## Unit 5: Applications (9 Hours)
 
 ### 5.1 Sentiment and Text Analysis
 

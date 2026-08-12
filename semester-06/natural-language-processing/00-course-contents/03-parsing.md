@@ -1,4 +1,4 @@
-## Unit 3: Parsing and Information Extraction (9 Hours)
+## Unit 3: Parsing (9 Hours)
 
 ### 3.1 Parsing Fundamentals
 
