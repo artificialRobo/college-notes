@@ -34,6 +34,20 @@ An intelligent agent continuously interacts with its environment.
 
 The agent receives **percepts (inputs)** from the environment, performs **actions**, and receives **feedback**, which is used for learning.
 
+## Performance Measure
+
+Learning is useful only when there is a **performance measure**, which evaluates how successfully the agent achieves its goals.
+
+Examples include:
+
+- Prediction accuracy
+- Number of tasks completed
+- Time required to solve a problem
+- Reward obtained
+- Cost minimized
+
+**Example:** A robot vacuum cleaner aims to maximize the area cleaned while minimizing energy consumption.
+
 ## Learning Agent Architecture
 
 A learning agent consists of **four major components**.
@@ -72,27 +86,6 @@ The learning process follows these steps:
 5. The learning element updates the agent’s knowledge.
 6. Future actions become more effective.
 
-## Example: Chess-Playing Agent
-
-- **Observation:** Opponent moves a piece.
-- **Action:** Agent selects a counter move.
-- **Feedback:** Win or loss.
-- **Learning:** Strategy is updated to improve future performance.
-
-## Performance Measure
-
-Learning is useful only when there is a **performance measure**, which evaluates how successfully the agent achieves its goals.
-
-Examples include:
-
-- Prediction accuracy
-- Number of tasks completed
-- Time required to solve a problem
-- Reward obtained
-- Cost minimized
-
-**Example:** A robot vacuum cleaner aims to maximize the area cleaned while minimizing energy consumption.
-
 ## Types of Learning in Agents
 
 ### 1. Rote Learning
@@ -126,6 +119,13 @@ The agent observes humans or other agents and imitates successful behavior.
 The agent tries different actions and learns from their consequences.
 
 **Example:** A robot exploring an unfamiliar building.
+
+## Example: Chess-Playing Agent
+
+- **Observation:** Opponent moves a piece.
+- **Action:** Agent selects a counter move.
+- **Feedback:** Win or loss.
+- **Learning:** Strategy is updated to improve future performance.
 
 ## Agent Learning vs Machine Learning
 
