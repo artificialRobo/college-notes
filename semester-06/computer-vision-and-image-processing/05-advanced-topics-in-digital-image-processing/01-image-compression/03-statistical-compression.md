@@ -423,9 +423,7 @@ Reconstructed Image
 For a lossless statistical compression system:
 
 $$
-\boxed{
-\text{Original Image} = \text{Reconstructed Image}
-}
+\boxed{\text{Original Image} = \text{Reconstructed Image}}
 $$
 
 ## 13. Advantages of Statistical Compression
