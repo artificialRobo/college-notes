@@ -97,7 +97,7 @@ For a binary image:
 $$
 f(x,y)=
 \begin{cases}
-1, & \text{object}\
+1, & \text{object}\\
 0, & \text{background}
 \end{cases}
 $$
