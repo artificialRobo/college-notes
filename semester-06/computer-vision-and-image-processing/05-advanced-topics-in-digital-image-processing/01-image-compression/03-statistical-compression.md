@@ -424,10 +424,7 @@ For a lossless statistical compression system:
 
 $$
 \boxed{
-\text{Original Image}
-===
-
-\text{Reconstructed Image}
+\text{Original Image} = \text{Reconstructed Image}
 }
 $$
 
