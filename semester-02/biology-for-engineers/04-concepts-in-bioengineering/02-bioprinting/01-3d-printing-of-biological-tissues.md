@@ -600,29 +600,29 @@ Computer-controlled manufacturing can improve consistency and allow systematic p
 
 Despite its potential, 3D bioprinting remains technically challenging.
 
-## 17.1 Cell viability
+### 17.1 Cell viability
 
 The printing process must avoid excessive damage to living cells.
 
-## 17.2 Vascularization
+### 17.2 Vascularization
 
 Large tissues require effective nutrient and oxygen transport.
 
-## 17.3 Tissue maturation
+### 17.3 Tissue maturation
 
 A printed structure does not automatically become mature functional tissue.
 
-## 17.4 Mechanical properties
+### 17.4 Mechanical properties
 
 The printed construct must have mechanical properties appropriate for its intended tissue.
 
 For example, a construct intended for load-bearing bone cannot have the same mechanical requirements as one intended to model soft tissue.
 
-## 17.5 Printing resolution
+### 17.5 Printing resolution
 
 Biological structures can exist at multiple length scales, from the overall organ down to cellular and microvascular structures. A printing method that reproduces large-scale geometry may not automatically reproduce all microscopic features.
 
-## 17.6 Bioink limitations
+### 17.6 Bioink limitations
 
 An ideal bioink should simultaneously provide:
 
