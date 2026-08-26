@@ -2,6 +2,10 @@
 
 ## 1. What is bioprinting?
 
+<p align="center">
+  <img src="assets/bioprinting.jpg" alt="" width="auto">
+</p>
+
 **Bioprinting** is an additive manufacturing approach in which **living cells, biomaterials, and/or biological components are deposited in a controlled pattern to construct tissue-like structures**.
 
 In simple terms, bioprinting adapts the basic idea of 3D printing to biological applications.
@@ -17,6 +21,10 @@ The objective is not simply to create a three-dimensional object. The ultimate g
 ---
 
 ## 2. Why is 3D bioprinting needed?
+
+<p align="center">
+  <img src="assets/3d-bioprinting.jpg" alt="" width="auto">
+</p>
 
 The human body contains tissues with complex three-dimensional structures.
 

@@ -2,6 +2,10 @@
 
 ## 1. What is organ transplantation?
 
+<p align="center">
+  <img src="assets/organ-transplantation.jpg" alt="" width="auto">
+</p>
+
 **Organ transplantation** is a medical procedure in which a functional organ or organ-containing tissue is transferred from a **donor** to a **recipient** to replace an organ that is damaged or no longer functioning adequately.
 
 In simple terms, transplantation replaces a failing biological organ with a functioning one obtained from another source.
