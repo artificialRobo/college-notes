@@ -207,5 +207,3 @@ $$
 $$
 \boxed{\text{Solar Cell: Sunlight → Electrical Energy}}
 $$
-
-This is the **core idea** you should retain for the exam.

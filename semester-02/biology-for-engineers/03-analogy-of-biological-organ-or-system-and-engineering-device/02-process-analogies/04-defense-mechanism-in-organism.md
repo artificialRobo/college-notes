@@ -1,6 +1,6 @@
 # Defense Mechanisms in Organisms
 
-### 1. Introduction
+## 1. Introduction
 
 Living organisms are continuously exposed to threats such as **pathogens, parasites, toxins, physical damage, and environmental stresses**. To survive, they possess defense mechanisms that detect threats, prevent their entry, and eliminate or neutralize them.
 
@@ -12,9 +12,7 @@ $$
 \boxed{\text{Biological defense mechanisms} \approx \text{Engineering protection systems}}
 $$
 
----
-
-# 2. Defense Mechanisms in Organisms
+## 2. Defense Mechanisms in Organisms
 
 The defense system of an organism can be understood as a sequence:
 
@@ -32,9 +30,7 @@ $$
 
 In humans, defense against pathogens involves both **physical barriers** and the **immune system**.
 
----
-
-## 3. First Line of Defense — Physical & Chemical Barriers
+## 3. First Line of Defense - Physical & Chemical Barriers
 
 The body attempts to prevent harmful organisms from entering in the first place.
 
@@ -50,17 +46,15 @@ These mechanisms are similar to **preventive protection systems in engineering**
 
 ### Engineering analogy
 
-| Biological mechanism | Engineering equivalent          |
-| -------------------- | ------------------------------- |
-| Skin                 | Protective casing/enclosure     |
-| Mucus                | Filtering/trapping layer        |
-| Cilia                | Particle-removal mechanism      |
-| Stomach acid         | Chemical treatment/disinfection |
-| Physical barriers    | Security barriers               |
+| Biological mechanism | Engineering equivalent |
+| --- | --- |
+| Skin | Protective casing/enclosure |
+| Mucus | Filtering/trapping layer |
+| Cilia | Particle-removal mechanism |
+| Stomach acid | Chemical treatment/disinfection |
+| Physical barriers | Security barriers |
 
----
-
-# 4. Second Line of Defense — Internal Response
+## 4. Second Line of Defense - Internal Response
 
 If pathogens overcome external barriers, the body can activate internal defense mechanisms.
 
@@ -93,9 +87,7 @@ It helps:
 * increase local blood flow,
 * initiate tissue-repair processes.
 
----
-
-# 5. Third Line of Defense — Adaptive Immunity
+## 5. Third Line of Defense - Adaptive Immunity
 
 The adaptive immune system provides a more **specific response** to particular pathogens.
 
@@ -113,9 +105,7 @@ A major feature of adaptive immunity is **immunological memory**.
 
 After exposure to a particular pathogen, memory cells can allow the body to respond more rapidly during subsequent exposure.
 
----
-
-# 6. Engineering Analogy
+## 6. Engineering Analogy
 
 Engineering systems can similarly use multiple layers of protection.
 
@@ -149,23 +139,19 @@ $$
 
 This resembles the layered defense strategy found in biological systems.
 
----
+## 7. Biological Defense vs Engineering Defense
 
-# 7. Biological Defense vs Engineering Defense
+| Biological System | Engineering System |
+| --- | --- |
+| Skin prevents pathogen entry | Protective casing prevents physical intrusion |
+| Immune receptors detect foreign substances | Sensors detect abnormal conditions |
+| Immune cells attack pathogens | Security/response systems neutralize threats         |
+| Antibodies recognize specific antigens | Identification systems recognize specific threats |
+| Inflammation isolates/responds to damage | Emergency isolation/shutdown limits damage |
+| Immune memory improves future response | System logs/data can improve future threat detection |
+| Tissue repair restores damaged areas | Maintenance/repair restores damaged components |
 
-| Biological System                          | Engineering System                                   |
-| ------------------------------------------ | ---------------------------------------------------- |
-| Skin prevents pathogen entry               | Protective casing prevents physical intrusion        |
-| Immune receptors detect foreign substances | Sensors detect abnormal conditions                   |
-| Immune cells attack pathogens              | Security/response systems neutralize threats         |
-| Antibodies recognize specific antigens     | Identification systems recognize specific threats    |
-| Inflammation isolates/responds to damage   | Emergency isolation/shutdown limits damage           |
-| Immune memory improves future response     | System logs/data can improve future threat detection |
-| Tissue repair restores damaged areas       | Maintenance/repair restores damaged components       |
-
----
-
-# 8. Layered Defense — A Key Engineering Principle
+## 8. Layered Defense - A Key Engineering Principle
 
 One of the most important lessons engineers can learn from biological defense is **defense in depth**.
 
@@ -211,9 +197,7 @@ This principle is used in areas such as:
 * structural engineering
 * robotics
 
----
-
-# 9. Self-Repair and Recovery
+## 9. Self-Repair and Recovery
 
 Another important biological feature is the ability of organisms to **repair damage**.
 
@@ -230,22 +214,18 @@ Engineered systems can also incorporate similar ideas through:
 
 This area is often associated with **biomimicry** and **bio-inspired engineering**.
 
----
+## 10. Important Differences
 
-# 10. Important Differences
+| Feature | Biological Defense | Engineering Defense |
+| --- | --- | --- |
+| Nature | Biological | Artificial/engineered |
+| Threat recognition | Molecular/cellular recognition | Sensors/software/control systems |
+| Response | Immune and physiological processes | Mechanical/electronic/software responses |
+| Adaptation | Can adapt through biological mechanisms | Depends on design, algorithms, or updates |
+| Repair | Biological regeneration/repair | Maintenance or engineered self-repair     |
+| Memory | Immune memory | Stored data/models/rules |
 
-| Feature            | Biological Defense                      | Engineering Defense                       |
-| ------------------ | --------------------------------------- | ----------------------------------------- |
-| Nature             | Biological                              | Artificial/engineered                     |
-| Threat recognition | Molecular/cellular recognition          | Sensors/software/control systems          |
-| Response           | Immune and physiological processes      | Mechanical/electronic/software responses  |
-| Adaptation         | Can adapt through biological mechanisms | Depends on design, algorithms, or updates |
-| Repair             | Biological regeneration/repair          | Maintenance or engineered self-repair     |
-| Memory             | Immune memory                           | Stored data/models/rules                  |
-
----
-
-# 11. Engineering Significance
+## 11. Engineering Significance
 
 Studying biological defense mechanisms helps engineers develop systems that are:
 
@@ -262,9 +242,7 @@ The biological principle is essentially:
 
 This concept is particularly valuable in designing systems where failure can have serious consequences.
 
----
-
-# 12. Exam-Oriented Key Points
+## 12. Exam-Oriented Key Points
 
 > **Defense mechanisms:** Mechanisms used by organisms to prevent, detect, control, and eliminate harmful agents or damage.
 
